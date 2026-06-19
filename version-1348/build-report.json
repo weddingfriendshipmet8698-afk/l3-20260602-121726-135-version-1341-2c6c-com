@@ -1,0 +1,26 @@
+{
+  "movie_records_parsed": 1985,
+  "detail_pages": 1985,
+  "category_pages": 10,
+  "category_movie_assignments": 1985,
+  "unique_category_movie_assignments": 1985,
+  "html_pages_total": 1999,
+  "all_html_has_baidu_stat": true,
+  "all_html_has_ad_script_before_title": true,
+  "forbidden_visible_phrases_found": [],
+  "logo_name": "高分日韩电影",
+  "video_urls_extracted_from_original_js": 150,
+  "cover_rule": "X = ((N - 1) % 150) + 1",
+  "category_distribution": {
+    "high-score": 199,
+    "japan-korea": 199,
+    "suspense-thriller": 199,
+    "action-adventure": 199,
+    "drama-life": 199,
+    "romance-comedy": 198,
+    "science-fantasy": 198,
+    "crime-police": 198,
+    "history-war": 198,
+    "latest-curation": 198
+  }
+}
